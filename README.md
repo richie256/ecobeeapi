@@ -39,4 +39,3 @@ The ExtendedRuntime information is updated every 15 minutes: it will contain 3 s
 `curl http://localhost:5002/thermostat/ecobee/resource/extended-runtime?format=influx`
 
 `curl http://localhost:5002/thermostat/ecobee/equipments/running?format=influx`
-
